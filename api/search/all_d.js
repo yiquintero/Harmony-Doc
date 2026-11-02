@@ -12,7 +12,7 @@ var searchData=
   ['make_5fconverter_9',['make_Converter',['../classPowerFlow.html#a50ffdd2a1e4094659f6b6d3a9b052287',1,'PowerFlow']]],
   ['make_5fgenerator_10',['make_Generator',['../classPowerFlow.html#a4c4ed48fba22845e5c30b802e4abc771',1,'PowerFlow']]],
   ['make_5fload_11',['make_Load',['../classPowerFlow.html#a65917c3b700322cfee7141d55de131de',1,'PowerFlow']]],
-  ['make_5fopf_12',['make_OPF',['../classPowerFlow.html#a2ef9bd2ebb3e0715264b0270feba7968',1,'PowerFlow']]],
+  ['make_5fopf_12',['make_OPF',['../classPowerFlow.html#a4d601a1cb510d456cdfe2caacc72b3cb',1,'PowerFlow']]],
   ['make_5fres_13',['make_RES',['../classPowerFlow.html#ac7050032818d134a4be28da88a635760',1,'PowerFlow']]],
   ['makeoperatinginput_14',['makeOperatingInput',['../MMC_8cpp.html#aef9d8fb81a6e9dcca4a976c77ace0038',1,'MMC.cpp']]],
   ['map2dense_15',['map2dense',['../Constants_8h.html#aa5a177d0e1a64d500888917d71fb4d1d',1,'Constants.h']]],

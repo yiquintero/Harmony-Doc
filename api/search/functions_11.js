@@ -29,7 +29,7 @@ var searchData=
   ['simulatetimestep_26',['simulateTimeStep',['../classConverter.html#a7c7ac29ba861ac6c1357f21aabd34f86',1,'Converter']]],
   ['simulationbuilder_27',['SimulationBuilder',['../classSimulationBuilder.html#a0a23981f17c0e547c7251be33363acda',1,'SimulationBuilder']]],
   ['size_28',['size',['../classPnPCertificateLibrary.html#a474d7801e0541134e944d92942cfc9b7',1,'PnPCertificateLibrary']]],
-  ['solve_5fopf_29',['solve_opf',['../classPowerFlow.html#a63b507039f281e4ee69cb0df8ea9b076',1,'PowerFlow']]],
+  ['solve_5fopf_29',['solve_opf',['../classPowerFlow.html#a184a2dcad77102442985168f421df1b2',1,'PowerFlow']]],
   ['solveequilibrium_30',['solveequilibrium',['../classMMC.html#abaf0667f0026d13fb5dbf92b0653a73b',1,'MMC::solveEquilibrium()'],['../classConverter.html#aed9122f61229d9ef95c4e773b13ac704',1,'Converter::solveEquilibrium()']]],
   ['solveregularized_31',['solveRegularized',['../Stability__estimate_8cpp.html#af0f94237a8cf4d2b670cea15eb930a41',1,'Stability_estimate.cpp']]],
   ['source_5fbase_32',['Source_base',['../classSource__base.html#abc95a22f4dc012889211e0911842a90d',1,'Source_base']]],

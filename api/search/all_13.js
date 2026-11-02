@@ -44,7 +44,7 @@ var searchData=
   ['simulationbuilder_41',['simulationbuilder',['../classSimulationBuilder.html',1,'SimulationBuilder'],['../classSimulationBuilder.html#a0a23981f17c0e547c7251be33363acda',1,'SimulationBuilder::SimulationBuilder()']]],
   ['size_42',['size',['../classPnPCertificateLibrary.html#a474d7801e0541134e944d92942cfc9b7',1,'PnPCertificateLibrary']]],
   ['small_5fgain_43',['small_gain',['../structCertificateSweep.html#a7f242f2feeb65282aaccaead10c8d3df',1,'CertificateSweep']]],
-  ['solve_5fopf_44',['solve_opf',['../classPowerFlow.html#a63b507039f281e4ee69cb0df8ea9b076',1,'PowerFlow']]],
+  ['solve_5fopf_44',['solve_opf',['../classPowerFlow.html#a184a2dcad77102442985168f421df1b2',1,'PowerFlow']]],
   ['solveequilibrium_45',['solveequilibrium',['../classMMC.html#abaf0667f0026d13fb5dbf92b0653a73b',1,'MMC::solveEquilibrium()'],['../classConverter.html#aed9122f61229d9ef95c4e773b13ac704',1,'Converter::solveEquilibrium()']]],
   ['solveregularized_46',['solveRegularized',['../Stability__estimate_8cpp.html#af0f94237a8cf4d2b670cea15eb930a41',1,'Stability_estimate.cpp']]],
   ['solvers_47',['Analysis solvers',['../group__solvers.html',1,'']]],
